@@ -1,5 +1,8 @@
 streamlit
-numpy
 opencv-python-headless
-insightface
-onnxruntime
+mediapipe
+torch
+torchvision
+pillow
+numpy
+pandas
