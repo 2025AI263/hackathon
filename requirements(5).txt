@@ -1,8 +1,5 @@
 streamlit
-opencv-python-headless
-mediapipe
-torch
-torchvision
-pillow
 numpy
-pandas
+opencv-python-headless
+insightface
+onnxruntime
